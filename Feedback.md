@@ -4,7 +4,7 @@ slide num:
    1. bigger, one line
    2. Dont write jargon on first slide (Continuous integration (CI))
 2. good
-3. good
+3. good, make sure it is specifically for businesses
 4. well done, mention which diagram you are explaining
 5. All of it is good
 6. Keep theme throughout, diagram and text format same locations
@@ -21,3 +21,20 @@ slide num:
 
 Redo Monday 9:30
 DONT READ THIS TIME
+
+we are going to replace it with something new
+iPod
+iPod mini
+new ground up design
+iPod Nano
+biggest revolution
+breathtaking
+amazing colour display
+click wheel
+one of the most amazing products apple
+impossibly small
+thinner than a No2 pencil
+80% smaller
+1/5 size of original iPod
+62% smaller by volume
+a lot of examples
