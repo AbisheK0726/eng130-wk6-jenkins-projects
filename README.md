@@ -9,7 +9,4 @@
 5. [Mohamed Yusuf]()
 
 ## Project Description
-<<<<<<< HEAD
  
-=======
->>>>>>> 0cd10737272c05c4c36797f85200f30566de608b
