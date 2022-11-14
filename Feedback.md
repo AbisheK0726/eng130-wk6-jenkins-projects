@@ -39,3 +39,26 @@ thinner than a No2 pencil
 1/5 size of original iPod
 62% smaller by volume
 a lot of examples
+
+
+
+if error:
+```node: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found (required by node)```
+```bash
+    `sudo apt-get remove nodejs`
+    `sudo apt-get remove npm`
+
+    `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash`
+    `chmod +x ~/.nvm/nvm.sh`
+    `source ~/.bashrc `
+
+    `nvm -v`
+    0.39.2
+
+    `nvm install 14`
+
+    `node -v`
+    v14.20.1
+    `npm -v`
+    6.14.17
+```
