@@ -62,3 +62,6 @@ if error:
     `npm -v`
     6.14.17
 ```
+how does amazon update website live
+how is deployment done to avoid losing money
+blue green deployment
