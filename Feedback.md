@@ -19,6 +19,7 @@ slide num:
     2.  set expectation
     3.  not everyone understands logic
 
+
 Redo Monday 9:30
 DONT READ THIS TIME
 
